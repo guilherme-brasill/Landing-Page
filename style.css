@@ -1,0 +1,79 @@
+body {
+    
+    background-image: url(img/fundo.jpg);
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+header{
+    padding-top: 10px ;
+    display: flex;
+    padding-left: 50px;
+    width: 1200px;
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.menu{
+    width: 550px;
+    height: 40px;
+    padding-bottom: 10px;  
+    padding-top: 50px;
+    text-align: center;
+    word-spacing: 60px;
+    font-weight: bold;
+    color:aliceblue;
+}
+
+.menu a{
+    text-decoration: none;
+    color: white;
+}
+
+section{
+    width: 700px;
+    height: 10px;
+    padding-top: ;
+
+}
+
+.chuteira{
+    margin-left: 750px;
+    width: 600px;
+    height: 400px;
+    padding-top: 70px;
+    padding-bottom: 0px;
+}
+
+.texto{
+    margin-top: -450px ;
+    padding-left: 100px;
+    padding-right: 50px;
+}
+
+section h1{
+    color: rgb(124, 53, 53);
+    font-size: 60px;
+}
+
+.link{
+    width: 700px;
+    height: 160px;
+    padding-top: 330px;
+    padding-left: 200px;
+    border-radius: 10px;
+    font-weight: bold;
+    color: rgb(42, 37, 37);
+}
+
+.link img{
+    width: 240px;
+}
